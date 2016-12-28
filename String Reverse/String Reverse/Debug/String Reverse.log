@@ -1,0 +1,3 @@
+﻿  stringReverse.cpp
+c:\users\malcolm\documents\visual studio 2013\projects\string reverse\string reverse\stringreverse.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  String Reverse.vcxproj -> c:\users\malcolm\documents\visual studio 2013\Projects\String Reverse\Debug\String Reverse.exe
